@@ -1,0 +1,2 @@
+# To stop MongoDB running as a macOS service
+brew services stop mongodb-community@4.2

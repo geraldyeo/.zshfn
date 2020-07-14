@@ -1,0 +1,4 @@
+brew update
+brew upgrade
+brew cleanup --prune 30
+brew doctor

@@ -1,0 +1,5 @@
+# To run MongoDB as a macOS service
+brew services start mongodb-community@4.2
+
+# To run MongoDB manually as a background process
+# mongod --config /usr/local/etc/mongod.conf --fork

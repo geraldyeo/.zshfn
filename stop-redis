@@ -1,0 +1,2 @@
+# To stop Redis running as a macOS service
+brew services stop redis
